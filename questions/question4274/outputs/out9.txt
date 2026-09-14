@@ -1,3 +1,0 @@
-Jogadores que passaram: 3
-Maior valor: 24
-Menor valor: 15

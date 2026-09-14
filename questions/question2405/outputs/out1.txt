@@ -1,3 +1,0 @@
-novo: 0.00
-gratificacao: 0.00
-imposto: 0.00

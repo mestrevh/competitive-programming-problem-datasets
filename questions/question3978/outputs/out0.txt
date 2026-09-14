@@ -1,3 +1,0 @@
-Esquerda: 3
-Direita: 4
-Incorretas: 2

@@ -1,6 +1,0 @@
-Título: Testesadasdasd
-Topicos do problema: acumulador; 
-Tempo limite de execução: 3 segundo(s)
-Descrição: <p>adsasdasdasdasd</p>
-Formato da entrada: None
-Formato da saída: None

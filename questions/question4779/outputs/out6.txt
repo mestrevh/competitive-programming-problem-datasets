@@ -1,2 +1,0 @@
-Tipo: file | Caminho: /home/user/readme.txt
-Tipo: file | Caminho: /docs/readme.txt

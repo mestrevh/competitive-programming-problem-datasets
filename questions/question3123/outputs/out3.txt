@@ -1,1 +1,0 @@
-Area aberta = 40000

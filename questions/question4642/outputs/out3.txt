@@ -1,5 +1,0 @@
-Receita Total: 420
-Receita fila 1: 120
-Homens: 5
-Mulheres: 7
-Media das idades: 34

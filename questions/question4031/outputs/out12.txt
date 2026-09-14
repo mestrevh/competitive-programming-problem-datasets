@@ -1,3 +1,0 @@
-ordep venceu com valor 129
-daniel venceu com valor 135
-pedro venceu com valor 116

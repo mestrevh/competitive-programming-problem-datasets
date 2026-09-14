@@ -1,4 +1,0 @@
-Promocao 1: NAO
-Promocao 2: SIM
-Promocao 3: SIM
-Promocao 4: NAO

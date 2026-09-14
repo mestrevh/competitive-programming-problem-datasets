@@ -1,1 +1,0 @@
-Data de devolucao inferior a data de locacao

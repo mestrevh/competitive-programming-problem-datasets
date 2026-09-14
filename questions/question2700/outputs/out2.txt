@@ -1,4 +1,0 @@
-Digite a quantidade de horas normais:
-Digite a quantidade de horas extras:
-Salario Bruto: R$ 620
-Salario Liquido: R$ 558

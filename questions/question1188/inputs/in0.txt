@@ -1,4 +1,0 @@
-X X O
-X O X
-_ X O
-sair

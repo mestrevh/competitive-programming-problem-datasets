@@ -1,1 +1,0 @@
-groups: 3, biggest: 3

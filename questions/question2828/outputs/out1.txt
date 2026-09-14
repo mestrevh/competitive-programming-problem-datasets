@@ -1,2 +1,0 @@
-Maior: 800 apareceu 1 vezes
-Menor: 4 apareceu 3 vezes

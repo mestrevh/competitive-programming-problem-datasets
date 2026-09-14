@@ -1,4 +1,0 @@
-cima
-esquerda
-baixo
-cima

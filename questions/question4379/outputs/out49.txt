@@ -1,6 +1,0 @@
-For = 11
-Des = 9
-Con = 13
-Sab = 15
-Int = 15
-Car = 13
